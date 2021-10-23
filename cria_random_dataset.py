@@ -1,8 +1,6 @@
 # Importa as Libs
 import numpy as np
 import pandas as pd
-import time
-from datetime import datetime, timedelta
 import warnings
 
 # Desativa os warnings chatos que vão aparecer no log devido ao método random_integers
