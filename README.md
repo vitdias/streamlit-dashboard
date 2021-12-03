@@ -18,6 +18,6 @@ Wait a little bit. If everything is ok, your terminal will give you a message sa
 >  Local URL: http://localhost:8501 <br>
 >  Network URL: http://XXX.XXX.X.X:YYYY
 
-Probably, your browser will open with the URL http://localhost:8501. But, opening it trought localhost will not apply the page theme that is set in the *.streamlit* directory, inside the *config.toml* file. To do this, copy the network URL that your terminal printed and paste in your browser. When the page open, you will se that it is necessary a password to see something. The password is *1234*.
-<br>
+Probably, your browser will open with the URL http://localhost:8501. But, opening it trought localhost will not apply the page theme that is set in the *.streamlit* directory, inside the *config.toml* file. To do this, copy the network URL that your terminal printed and paste in your browser. When the page open, you will se that it is necessary a password to see something. <br>
+The password is **1234**. <br>
 Hope you enjoy it!
