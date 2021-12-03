@@ -62,8 +62,8 @@ df['decisao'] = np.where(df['regra'] == '10', 'APROVAR', df['decisao'])
 
 df['Limite'] = np.where(df['decisao'] == 'APROVAR', np.random.randint(500, 2000, size=(10000)) * df['qtd'], 0)
 
-df['lat'] = np.random.randn(10000) / 5 + -23.53
-df['lon'] = np.random.randn(10000) / 5 + -46.62
+df['lat'] = np.random.randn(10000) / 1 + -11.53
+df['lon'] = np.random.randn(10000) / 5 + -49.62
 
 # print(df)
 
