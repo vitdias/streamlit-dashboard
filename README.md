@@ -13,7 +13,7 @@ First, you need to run the code above in your terminal:
  <br>
 Wait a little bit. If everything is ok, your terminal will give you a message saying something like this:
 
-> You can now view your Streamlit app in your browser. <br><br>
+> You can now view your Streamlit app in your browser. <br>
 > 
 >  Local URL: http://localhost:8501 <br>
 >  Network URL: http://XXX.XXX.X.X:YYYY
