@@ -5,7 +5,7 @@
  First you need to run the *cria_random_dataset.py* file. It will output a test database, and in my case it is the base_dataset2.csv.
  
  ## Running the streamlit web app in your local machine
-First, you need to run the code above in your terminal: 
+First, you need to run the code below in your terminal: 
  <br>
  ```
  streamlit run VIT_BANK.py
