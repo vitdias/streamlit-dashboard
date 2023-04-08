@@ -1,0 +1,25 @@
+[theme]
+
+# The preset Streamlit theme that your custom theme inherits from. One of "light" or "dark".
+#base = "dark"
+
+# Primary accent color for interactive elements.
+# The value below was set in C:\Users\vitor\Desktop\Python Programs\Dash com Streamlit\Lib\.streamlit\config.toml
+primaryColor = "#C2AB6B"
+
+
+# Background color for the main content area.
+# The value below was set in C:\Users\vitor\Desktop\Python Programs\Dash com Streamlit\Lib\.streamlit\config.toml
+backgroundColor = "#262B3D"
+
+# Background color used for the sidebar and most interactive widgets.
+# The value below was set in C:\Users\vitor\Desktop\Python Programs\Dash com Streamlit\Lib\.streamlit\config.toml
+secondaryBackgroundColor = "#141D44"
+
+# Color used for almost all text.
+# The value below was set in C:\Users\vitor\Desktop\Python Programs\Dash com Streamlit\Lib\.streamlit\config.toml
+textColor = "#FFF"
+
+# Font family for all text in the app, except code blocks. One of "sans serif", "serif", or "monospace".
+# The value below was set in C:\Users\vitor\Desktop\Python Programs\Dash com Streamlit\Lib\.streamlit\config.toml
+font = "sans serif"
